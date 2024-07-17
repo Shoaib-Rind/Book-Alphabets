@@ -1,0 +1,209 @@
+
+h1{
+    text-align: center;
+    background: hsla(211, 96%, 62%, 1);
+
+background: linear-gradient(90deg, hsla(211, 96%, 62%, 1) 0%, hsla(295, 94%, 76%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(211, 96%, 62%, 1) 0%, hsla(295, 94%, 76%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(211, 96%, 62%, 1) 0%, hsla(295, 94%, 76%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#439CFB", endColorstr="#F187FB", GradientType=1 );;
+    padding: 3%;
+    font-family: sans-serif;
+    font-size: 600%;
+    border-radius: 30px 30px;
+    text-shadow: 4px 2px 3px  rgb(139, 86, 5);
+    color: rgb(60, 201, 4)
+    
+    }
+
+        nav{
+            width: 10%;
+            height: 70px;
+            background-color: rgb(228, 14, 14);
+            margin-bottom: 2px;
+            top: 50px;
+            left: 90%;
+            display: flex;
+            z-index: 2;
+            position: sticky;
+            color: rgb(8, 2, 0);
+            border-radius: 2px 25px 2px 25px;
+            text-align: center;
+            
+        
+        
+        }
+
+.Alpha {
+        font-size: 35px;
+        text-align: center;
+         font-family: "Shadows Into Light", cursive;
+        font-weight: 400;
+        font-style: normal;
+        padding: 2px;
+        span:hover{
+            background-color: chartreuse;
+            color: rgb(241, 5, 5);
+        }
+        
+}
+            img{
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+.Container1 {
+                background-color:cadetblue;
+                font-size: 3em;
+                padding: 3px;}
+        
+.Container2 {
+                background-color: cadetblue;
+                font-size: 3em;
+                padding: 3px;
+                }
+
+.Container3 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;
+                        }
+
+.Container4 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;
+                                }
+
+.Container5 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;
+                                        }
+.Container6 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;}
+
+.Container7 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;}
+
+.Container8 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;}
+
+.Container9 {
+                background-color: rgb(95, 158, 160);
+                font-size: 3em;
+                padding: 3px;}
+                   
+.Container10 {
+                background-color: cadetblue;
+                font-size: 3em;
+                padding: 3px;
+                           }
+           
+.Container11 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;
+                                   }
+           
+.Container12 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;
+                                           }
+           
+.Container13 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;
+                                                   }
+.Container14 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                 padding: 3px;}
+           
+.Container15 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;}
+           
+.Container16 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;}
+                    
+.Container17 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;
+                                                    }
+                    
+.Container18 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;
+                                                            }
+.Container19 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;}
+                    
+.Container20 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;}
+                    
+.Container21 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                 padding: 3px;}
+
+.Container18 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;
+                                                                   }
+.Container22 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;}
+                           
+.Container23 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;}
+                           
+.Container24 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;}
+.Container25 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;}
+                            
+.Container26 {
+                background-color: cadetblue;
+                font-size: 3em ;
+                padding: 3px;}
+                
+        .cla{
+            
+            height: 60px;
+            width: 60px;
+            display: flex;
+            align-items: center;
+            margin: auto;
+            
+            
+        }
